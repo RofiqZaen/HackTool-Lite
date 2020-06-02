@@ -1,0 +1,15 @@
+[ScalabilityGroups]
+sg.ResolutionQuality=100
+sg.FrameRate=60Fps
+sg.ViewDistanceQuality=0
+sg.AntiAliasingQuality=0
+sg.ShadowQuality=0
+sg.PostProcessQuality=0
+sg.TextureQuality=0
+sg.EffectsQuality=0
+sg.FoliageQuality=0
+sg.HeightFieldShadowQuality=0
+sg.GrafficsResolution=Low
+sg.GrafficsQuality=Low
+sg.AnisotropicFiltering=TextureFiltering
+sg.BorderlessFullscreen=720P
