@@ -12,4 +12,4 @@ sg.HeightFieldShadowQuality=0
 sg.GrafficsResolution=Low
 sg.GrafficsQuality=Low
 sg.AnisotropicFiltering=TextureFiltering
-sg.BorderlessFullscreen=720P
+sg.BorderlessFullscreen=640P
